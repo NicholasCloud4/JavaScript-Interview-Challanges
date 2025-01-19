@@ -1,1 +1,1 @@
-return message.toLowerCase()
+return newStr;
